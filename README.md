@@ -1,1 +1,3 @@
 # study-editorconfig
+
+testing editor
